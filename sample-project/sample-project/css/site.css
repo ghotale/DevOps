@@ -69,7 +69,7 @@
 		
 		.step-text a {
             color: white;
-			text-decoration:line-through;
+			text-decoration:none;
         }
 		
 		.step-text a:hover {
