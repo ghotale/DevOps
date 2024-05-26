@@ -128,7 +128,12 @@
                 top: 80px;
             }
             .content{
-                max-width: 620px;
-                min-width: 620px;
+<<<<<<< HEAD
+      
+    
+=======
+                max-width: 610px;
+                min-width: 610px;
+>>>>>>> feature2
             }
         }
