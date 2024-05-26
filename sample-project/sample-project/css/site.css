@@ -74,7 +74,7 @@
 		
 		.step-text a:hover {
             color: white;
-			text-decoration:line-through;
+			text-decoration:underline;
         }
 
         .content {
